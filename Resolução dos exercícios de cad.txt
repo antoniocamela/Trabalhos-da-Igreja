@@ -1,0 +1,156 @@
+Resolução De cad
+
+
+Bora resolver tudo com calma e organizado 👇 
+São exercícios de Geometria Plana + Espacial. Vou explicar o raciocínio de cada um pra não ser só "copiar".
+
+---
+
+*EXERCÍCIOS RESOLVIDOS - FUNDAMENTOS DO DESENHO*
+
+*EXERCÍCIO 1: Retas num plano*
+*Enunciado:* 5 retas distintas em um plano cortam-se em n pontos. Maior valor de n?  
+
+*Explicação:* Pra ter o máximo de pontos, nenhuma reta pode ser paralela e nenhuma 3 pode passar no mesmo ponto.  
+Cada par de retas se corta em 1 ponto.  
+Fórmula: $n = C_{5,2} = \frac{5 \times 4}{2} = 10$  
+
+*Resposta: $n_{max} = 10$ pontos*
+
+*EXERCÍCIO 2: Triângulo medial*
+*Enunciado:* Lados 8cm, 9cm, 10cm. Perímetro do triângulo formado pelos lados opostos aos vértices?
+
+*Explicação:* Se traças paralelas aos lados pelos vértices opostos, formas um triângulo 2x maior.  
+Porque cada lado do triângulo novo é paralelo e mede o dobro do lado original.  
+Perímetro original: $8 + 9 + 10 = 27$ cm  
+Perímetro novo: $2 \times 27 = 54$ cm  
+
+*Resposta: $54$ cm*
+
+*EXERCÍCIO 3: Distância no espaço 3D* 
+*Enunciado:* AB ⊥ plano, AB = 2cm. BC = 4cm, CD = 3cm, CD ⊥ BC. Achar AD.
+
+*Explicação:* Usa Pitágoras 2x. 
+1.  No plano: BD é hipotenusa do triângulo BCD retângulo em C. 
+    $BD = \sqrt{BC^2 + CD^2} = \sqrt{4^2 + 3^2} = \sqrt{25} = 5$ cm
+2.  No espaço: AD é hipotenusa do triângulo ABD retângulo em B, porque AB ⊥ plano. 
+    $AD = \sqrt{AB^2 + BD^2} = \sqrt{2^2 + 5^2} = \sqrt{4 + 25} = \sqrt{29}$ cm  
+
+*Resposta: $\sqrt{29} \approx 5,39$ cm*
+
+*EXERCÍCIO 4: Perímetro aplicado*
+*Enunciado:* Cerca retangular 4m x 7m, 4 voltas de arame.
+
+*Explicação:* Perímetro = volta toda. $P = 2(4+7) = 22$ m  
+4 voltas: $4 \times 22 = 88$ m  
+
+*Resposta: $88$ m de arame*
+
+*EXERCÍCIO 5: Contar lados do perímetro*
+*Enunciado:* Figura de triângulos equiláteros, perímetro total 31,5 cm.
+
+*Explicação:* Conta só os lados de fora. A figura tem 4 triângulos em linha. 
+Lados de fora = 7 lados do triângulo.  
+$7 \times L = 31,5$  ->  $L = \frac{31,5}{7} = 4,5$ cm  
+
+*Resposta: $4,5$ cm cada lado*
+
+*EXERCÍCIO 6: Perímetro do pentágono*
+*Enunciado:* Pentágono regular lado = 4,5 cm.
+
+*Explicação:* Pentágono tem 5 lados iguais.  
+$P = 5 \times 4,5 = 22,5$ cm  
+
+*Resposta: $22,5$ cm*
+
+*EXERCÍCIO 7: Área e Perímetro do campo*
+*Enunciado:* Campo 7m largura x 10m comprimento. Grama e tela?
+
+*Explicação:* 
+1.  Grama = Área: $A = 7 \times 10 = 70$ m² 
+2.  Tela = Perímetro: $P = 2(7+10) = 34$ m  
+
+*Resposta: $70$ m² de grama e $34$ m de tela*
+
+*EXERCÍCIO 8: Área do quadrado* $A = l^2$
+a) $l=8$cm -> $A = 8^2 = 64$ cm²  
+b) $l=7,1$cm -> $A = 7,1^2 = 50,41$ cm²  
+c) $l=\sqrt{3}$cm -> $A = (\sqrt{3})^2 = 3$ cm²  
+
+*EXERCÍCIO 9: Área do trapézio* $A = \frac{(B+b)h}{2}$
+$A = \frac{(7+5) \times 4}{2} = \frac{12 \times 4}{2} = 24$ cm²  
+
+*Resposta: $24$ cm²*
+
+*EXERCÍCIO 10: Área do quadrado pelo perímetro*
+*Explicação:* $P = 72$cm -> $4l = 72$ -> $l = 18$cm  
+$A = 18^2 = 324$ cm²  
+
+*Resposta: $324$ cm²*
+
+*EXERCÍCIO 11: Área trapézio isósceles*
+*Explicação:* Bases 12cm e 6cm. Lados 5cm. Acha a altura $h$ primeiro.  
+Diferença das bases: $12-6=6$ -> $\frac{6}{2}=3$cm de cada lado.  
+Pitágoras: $h = \sqrt{5^2 - 3^2} = \sqrt{25-9} = 4$cm  
+$A = \frac{(12+6) \times 4}{2} = 36$ cm²  
+
+*Resposta: $36$ cm²*
+
+*EXERCÍCIO 12: Área dos retângulos*
+a) $A = 8 \times 4 = 32$ cm²  
+b) Retângulo com diagonal 12cm e ângulo 30º. Lado oposto ao 30º = metade da hipotenusa.  
+    Altura = $12 \times \sin 30º = 6$cm. Base = $12 \times \cos 30º = 6\sqrt{3}$cm  
+    $A = 6 \times 6\sqrt{3} = 36\sqrt{3} \approx 62,35$ cm²  
+
+*EXERCÍCIO 13: Área dos paralelogramos* $A = b \times h$
+a) $A = 6 \times 4 = 24$ cm²  
+b) $A = 8 \times 6 \times \sin 60^{\circ} = 48 \times \frac{\sqrt{3}}{2} = 24\sqrt{3} \approx 41,57$ cm²  
+
+*EXERCÍCIO 14: Área dos triângulos* $A = \frac{b \times h}{2}$
+a) $A = \frac{8 \times 6}{2} = 24$ cm²  
+b) Triângulo retângulo: catetos 5cm e 12cm. $A = \frac{5 \times 12}{2} = 30$ cm²  
+c) Equilátero 6cm: $h = \frac{6\sqrt{3}}{2} = 3\sqrt{3}$ -> $A = \frac{6 \times 3\sqrt{3}}{2} = 9\sqrt{3} \approx 15,59$ cm²  
+d) Base 8cm, ângulo 30º, lado 6cm. Altura = $6 \times \sin 30º = 3$cm. $A = \frac{8 \times 3}{2} = 12$ cm²  
+
+*EXERCÍCIO 15: Retângulo com relação*
+*Enunciado:* $h = \frac{b}{2}$, $A = 450$m²  
+$A = b \times h = b \times \frac{b}{2} = \frac{b^2}{2} = 450$ -> $b^2 = 900$ -> $b = 30$m  
+$h = 15$m  
+
+*Resposta: Base 30m, Altura 15m*
+
+*EXERCÍCIO 16: Área hachurada*
+*Explicação:* Área retângulo - Área triângulo branco.  
+$A_{ret} = 8,6 \times 4,2 = 36,12$ cm²  
+$A_{tri} = \frac{8,6 \times 4,2}{2} = 18,06$ cm²  
+$A_{hach} = 36,12 - 18,06 = 18,06$ cm²  
+
+*Resposta: $18,06$ cm²*
+
+*EXERCÍCIO 17: Volume paralelepípedo*
+*Enunciado:* 15m x 12m x 5m  
+$V = 15 \times 12 \times 5 = 900$ m³  
+
+*Resposta: $900$ m³ = 900.000 litros*
+
+*EXERCÍCIO 18: Volume da pirâmide*
+*Enunciado:* Base quadrada 3m, altura 4m  
+$V = \frac{1}{3} \times B \times H = \frac{1}{3} \times 3^2 \times 4 = \frac{1}{3} \times 9 \times 4 = 12$ m³  
+
+*Resposta: $12$ m³ de concreto*
+
+*EXERCÍCIO 19: Volume do cilindro* $V = \pi r^2 h$
+$V = 3,14 \times 2^2 \times 10 = 3,14 \times 40 = 125,6$ m³  
+
+*Resposta: $125,6$ m³*
+
+*EXERCÍCIO 20: Cone com relação*
+*Enunciado:* $V=4\pi$ m³, $r = \frac{2}{3}h$  
+$V = \frac{1}{3}\pi r^2 h = \frac{1}{3}\pi (\frac{2h}{3})^2 h = \frac{1}{3}\pi \frac{4h^2}{9} h = \frac{4\pi h^3}{27} = 4\pi$  
+Cancela $\pi$: $\frac{4h^3}{27} = 4$ -> $h^3 = 27$ -> $h = 3$m  
+
+*Resposta: $h = 3$ m*
+
+---
+
+Quer que eu pegue algum exercício e faça o desenho/esquema passo a passo pra entender melhor a lógica?
